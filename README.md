@@ -12,7 +12,7 @@ The main project is primarily summarized on hackster.io, so please refer to it t
 
 In this project, we provide Maker's nRF54L15 Debug Board. We have designed a compact board featuring the powerful nRF54L15 Wireless SOC.
 
-![overview](https://github.com/iotengineer22/AMD-Pervasive-AI-Developer-Contest/blob/main/imgs/overview.png)
+![3D1](imgs/3D1.png)
 
 ## Structure
     .
