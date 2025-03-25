@@ -21,29 +21,15 @@ In this project, we provide Maker's nRF54L15 Debug Board. We have designed a com
     ├── LICENSE
     └── README.md
 
-## Solution overview
-
-Using KR260 and PYNQ, 360° object detection is processed on the PL (FPGA).
-
-The PL also handles PWM and GPIO for driving the Robot Car and Arm.
-
-By integrating PL and PS, the robot achieves 360-degree AI vision.
-
-![Using KR260 and PYNQ](https://github.com/iotengineer22/AMD-Pervasive-AI-Developer-Contest/blob/main/imgs/Using-KR260-and-PYNQ.png)
 
 ## Electrical Diagram overview
 
 This is Main electrical diagram.
 
-![Main-electrical-diagram](https://github.com/iotengineer22/AMD-Pervasive-AI-Developer-Contest/blob/main/imgs/Main-electrical-diagram.png)
+![schematics](pcb/schematics/hardware_ble_test v59-schematics.pdf)
 
-These are PMOD diagrams.
 
-![PMOD1-diagram](https://github.com/iotengineer22/AMD-Pervasive-AI-Developer-Contest/blob/main/imgs/PMOD1-diagram.png)
 
-![PMOD2-diagram](https://github.com/iotengineer22/AMD-Pervasive-AI-Developer-Contest/blob/main/imgs/PMOD2-diagram.png)
-
-![PMOD4-diagram](https://github.com/iotengineer22/AMD-Pervasive-AI-Developer-Contest/blob/main/imgs/PMOD4-diagram.png)
 
 ### 1. PYNQ + GPIO(LED Blinking)
 For details and specifications, please refer to the hackster.io Subproject below.
