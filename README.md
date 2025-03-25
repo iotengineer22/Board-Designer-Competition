@@ -16,10 +16,8 @@ In this project, we provide Maker's nRF54L15 Debug Board. We have designed a com
 
 ## Structure
     .
-    ├── bom                 # BOM file (BOM list)
-    ├── jupyter_notebooks   # Jupyter Notebooks (pre-Test Program)
-    ├── pcb                 # PCB link files   
-    ├── src                 # Python files (Test Program)   
+    ├── pcb                 # PCB files(autodesk, gerber, bom, schematics)   
+    ├── src                 # Program files (board, program)   
     ├── LICENSE
     └── README.md
 
