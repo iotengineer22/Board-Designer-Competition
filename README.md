@@ -17,7 +17,7 @@ In this project, we provide Maker's nRF54L15 Debug Board. We have designed a com
 ## Structure
     .
     ├── pcb                 # PCB files(autodesk, gerber, bom, schematics)   
-    ├── src                 # Program files (board, program)   
+    ├── src                 # Program and board files (program, board)   
     ├── LICENSE
     └── README.md
 
