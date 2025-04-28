@@ -53,3 +53,15 @@ This is Artwork overview.
 ![artwork2](imgs/size.png)
 
 
+## PCB BOM
+
+This is BOM overview.
+
+**For details, see the BOM data(.xlsx).**
+
+[BOM_file](pcb/bom)
+
+![bom1](imgs/bom1.png)
+
+
+
