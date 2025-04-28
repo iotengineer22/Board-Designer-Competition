@@ -1,0 +1,10 @@
+board:
+  name: test_nrf54l15dk
+  vendor: misoji
+  socs:
+  - name: nrf54l15
+    variants:
+    - name: xip
+      cpucluster: cpuflpr
+    # - name: ns
+    #   cpucluster: cpuapp
