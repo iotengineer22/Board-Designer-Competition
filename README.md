@@ -28,6 +28,9 @@ In this project, we provide Maker's nRF54L15 Debug Board. We have designed a com
 
 This is Main electrical diagram.
 
+**For details, see the PDF file.**
+[PDF schematics](pcb/schematics)
+
 ![schematics1](imgs/cir1.png)
 
 ![schematics2](imgs/cir2.png)
