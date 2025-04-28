@@ -28,9 +28,9 @@ In this project, we provide Maker's nRF54L15 Debug Board. We have designed a com
 
 This is Main electrical diagram.
 
-![schematics](pcb/schematics/hardware_ble_test v59-schematics.pdf)
+![schematics1](imgs/cir1.png)
 
-
+![schematics2](imgs/cir2.png)
 
 
 ### 1. PYNQ + GPIO(LED Blinking)
