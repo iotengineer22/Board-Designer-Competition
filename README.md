@@ -14,6 +14,8 @@ In this project, we provide Maker's nRF54L15 Debug Board. We have designed a com
 
 ![3D1](imgs/3D1.png)
 
+![3D2](imgs/3D2.png)
+
 ![ac1](imgs/actual1.jpg)
 
 ![ac2](imgs/actual2.jpg)
