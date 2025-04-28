@@ -41,11 +41,13 @@ This is Main electrical diagram.
 This is Artwork overview.
 
 **For details, see the PCB files in Autodesk Fusion or Gerber data.**
+
 [Autodesk_project_file](pcb/autodesk)
 
 [Gerber_data](pcb/gerber)
 
 ![artwork1](imgs/layer.png)
 
+![artwork2](imgs/size.png)
 
 
