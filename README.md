@@ -16,6 +16,8 @@ In this project, we provide Maker's nRF54L15 Debug Board. We have designed a com
 
 ![ac1](imgs/actual1.jpg)
 
+![ac2](imgs/actual2.jpg)
+
 ## Structure
     .
     ├── pcb                 # PCB files(autodesk, gerber, bom, schematics)   
