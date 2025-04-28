@@ -36,17 +36,13 @@ This is Main electrical diagram.
 ![schematics2](imgs/cir2.png)
 
 
-### 1. PYNQ + GPIO(LED Blinking)
-For details and specifications, please refer to the hackster.io Subproject below.
+## PCB ArtWork overview
 
-[Control GPIO from PYNQ and KR260](https://www.hackster.io/iotengineer22/control-gpio-from-pynq-and-kr260-0d3613)
+This is Artwork overview.
 
-In this Subproject, we experimented with controlling GPIO on the KR260 FPGA board.
+**For details, see the PCB files in Autodesk Fusion.**
 
-Using Python (PYNQ) , we managed to perform LED output and switch input via the PMOD connector with custom-designed board.
+![artwork1](imgs/layer.png)
 
-The test .bit .hwh .ipynb files are available on GitHub.
 
-[/jupyter_notebooks/pynq-gpio](https://github.com/iotengineer22/AMD-Pervasive-AI-Developer-Contest/tree/main/jupyter_notebooks/pynq-gpio)
 
-![kr260-gpio](https://github.com/iotengineer22/AMD-Pervasive-AI-Developer-Contest/blob/main/imgs/kr260-gpio.png)
